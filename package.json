@@ -12,7 +12,10 @@
     "@types/react-dom": "^18.2.5",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-router-dom": "^6.13.0",
     "react-scripts": "5.0.1",
+    "sass": "^1.63.4",
+    "scss": "^0.2.4",
     "typescript": "^4.9.5",
     "web-vitals": "^2.1.4"
   },

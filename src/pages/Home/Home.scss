@@ -1,0 +1,40 @@
+.home{
+    color: #fff;
+    display: flex;
+    width: 100vw;
+    min-height: 100vh;
+    background: #000;
+
+    .home__left{
+        width: 50vw;
+        height: 100vh;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        padding: 0 10rem;
+
+        h1{
+            max-width: 20vw;
+            font-size: 4rem;
+            line-height: 1.2;
+            margin-bottom: 1rem;
+            color: #fff;
+            font-weight: 500;
+        }
+        p{
+            max-width: 50vw;
+            font-size: 1.2rem;
+            margin-bottom: 1rem;
+            color: gray;
+        }
+    }
+    .home__right{
+        width: 50%;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 0 5rem;
+    }
+}
